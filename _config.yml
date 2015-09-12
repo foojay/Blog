@@ -1,9 +1,9 @@
 # Site settings
-title: Hackerxu's Blog
-email: 468137306@qq.com
+title: 	Foojay's Blog
+email: 1007393637@qq.com
 description: "Python,HTML,CSS,Machine Leaning"
 permalink: /:year/:month/:day/:title.html
-baseurl: ""
+baseurl: "http://foojay.github.io"
 url: "http://foojay.github.io"
 atom-baseurl: "http://foojay.github.io"
 author: "hackerxu"
